@@ -22,4 +22,4 @@ $ git clone https://github.com/TFerreira25/configure_server_linux/
 $ chmod +x config_server.sh
 $ ./config_server.sh or $ bash config_server.sh
 ```
-
+ >NOTE: There are services to be updated from Portuguese to English
