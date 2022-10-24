@@ -15,7 +15,7 @@
 * Asterisk
 * Failover
 
-##Run the script
+>Run the script
 ```sh
 $ cd /home/$USER/
 $ git clone https://github.com/TFerreira25/configure_server_linux/
