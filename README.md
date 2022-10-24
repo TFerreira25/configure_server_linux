@@ -19,7 +19,7 @@
 ```sh
 $ cd /home/$USER/
 $ git clone https://github.com/TFerreira25/configure_server_linux/
-$ chmod +x 
-$ ./ or $ bash 
+$ chmod +x config_server.sh
+$ ./config_server.sh or $ bash config_server.sh
 ```
 
