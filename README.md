@@ -1,9 +1,9 @@
 # Configure Linux Server
-> Services you can install
-* Ip Estático
+> What can you install
+* Static ip
 * DNS
 * DHCP
-* Dominio
+* Domain
 * SSH
 * APACHE
 * Openfire
@@ -15,7 +15,7 @@
 * Asterisk
 * Failover
 
->Run the script
+>How to run the script
 ```sh
 $ cd /home/$USER/
 $ git clone https://github.com/TFerreira25/configure_server_linux/
